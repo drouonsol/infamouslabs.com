@@ -118,14 +118,13 @@ return (
 
 <section style={{height:"auto",margin:"5%",verticalAlign:"center"}}>
 
-<a href="https://infamouswolves.com"className="grid-flex" >
+<a href="https://infamouswolves.com" className="grid-flex" >
 <div style={{padding:"65px 0px",justifyContent:"space-evenly",textAlign:"center"}}>
         <h1 style={{fontSize:"650%",textTransform:"uppercase",color:"white",textAlign:"center"}}>Infamous Wolves</h1>
         <h1  style={{fontSize:"250%",textTransform:"uppercase",color:"white",textAlign:"center"}}>The Genesis</h1>
       </div>
-
-
   </a> 
+
 
   </section>
 
@@ -141,7 +140,7 @@ return (
 
   <div  style={{height: "fit-content",  }}> <div class="container">
          
-            <a class="card" target="_blank"href="https://flip.infamouswolves.com/" style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1084419960484397177/Untitled_Artwork.png)"}}>
+            <a class="card" target="_blank"href="https://flip.inflbs.com/" style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1084419960484397177/Untitled_Artwork.png)"}}>
             
                 <div class="content">
                         <h4 style={{fontSize:"175%", textTransform:"uppercase", fontFamily:"Oswald", color:"white"}}>COINFLIP</h4>
@@ -152,7 +151,7 @@ return (
             </a>
         
        
-            <a href="https://stake.infamouswolves.com/" class="card" target="_blank"style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1033801567649927308/Untitled_Artwork.png?width=1198&height=658)"}}>
+            <a href="https://stake.inflbs.com/" class="card" target="_blank"style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1033801567649927308/Untitled_Artwork.png?width=1198&height=658)"}}>
          
                 <div class="content">
                         <h4 style={{fontSize:"175%", textTransform:"uppercase", fontFamily:"Oswald", color:"white"}}>STAKING</h4>
@@ -162,7 +161,7 @@ return (
      
             </a>
 
-            <a href="https://discord.gg/KjZ9xKyNT6" class="card" target="_blank"style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1095238368473907221/C0F68985-ED75-4350-8F76-8C16614014F4.png)"}}>
+            <a href="https://discord.gg/QsjECWbKt9" class="card" target="_blank"style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1095238368473907221/C0F68985-ED75-4350-8F76-8C16614014F4.png)"}}>
          
          <div class="content">
                  <h4 style={{fontSize:"175%", textTransform:"uppercase", fontFamily:"Oswald", color:"white"}}>MINT TOOLS</h4>
@@ -172,7 +171,7 @@ return (
 
      </a>
 
-     <a href="https://discord.gg/KjZ9xKyNT6" class="card" target="_blank" style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1028633293349998643/Untitled_Artwork.png"}}>
+     <a href="https://discord.gg/QsjECWbKt9" class="card" target="_blank" style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1028633293349998643/Untitled_Artwork.png"}}>
          
          <div class="content">
                  <h4 style={{fontSize:"175%", textTransform:"uppercase", fontFamily:"Oswald", color:"white"}}>BUILD YOUR OWN</h4>
@@ -195,7 +194,7 @@ return (
                  
 
 
-          <a href="https://discord.gg/KjZ9xKyNT6" target="_blank" class="button button-arrow bg-stuck2" style={{opacity:"100%"}}>
+          <a href="https://discord.gg/QsjECWbKt9" target="_blank" class="button button-arrow bg-stuck2" style={{opacity:"100%"}}>
       MORE&nbsp;
       <svg viewBox="0 0 6 9" fill="none" xmlns="http://www.w3.org/2000/svg"  class="arrow-icon">
         <g class="arrow-head">

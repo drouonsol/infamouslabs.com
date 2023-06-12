@@ -74,8 +74,8 @@ function Navbar() {
       <NavbarInnerContainer>
         <LeftContainer>
           <NavbarLinkContainer>
-            <NavbarLink to="/home" > Home</NavbarLink>
-            <a className="socialmedialink" href="https://elixir.elysiankids.com">DOCS</a>
+            <NavbarLink to="/" > Home</NavbarLink>
+            <a className="socialmedialink" href="https://vision.infamouswolves.com/">DOCS</a>
       
             <a className="navbarlinkdisabled" to="/lore">RAFFLES</a>
             <a className="navbarlinkdisabled"  /*onClick={whitepaper}*/ to="/whitepaper">STAKE</a>
@@ -98,15 +98,15 @@ function Navbar() {
           </NavbarLinkContainer>
         </LeftContainer>
         <RightContainer>
-          <a href="/home"><Logo src={LogoImg} ></Logo></a>
+          <a href="/"><Logo src={LogoImg} ></Logo></a>
         </RightContainer>
       </NavbarInnerContainer>
       {extendNavbar && (
         <NavbarExtendedContainer style={{overflow:"hidden"}}>
           <NavLinkContainer style={{}}>
-<NavbarLinkExtended onClick={refreshPage} to="/home"> Home</NavbarLinkExtended>
+<NavbarLinkExtended onClick={refreshPage} to="/"> Home</NavbarLinkExtended>
 
-<NavbarLinkExtended href={"https://elixir.elysiankids.com"}><a href="https://vision.infamouswolves.com/" style={{fontFamily:"inherit",color:"black",}}>DOCS</a></NavbarLinkExtended>
+<a className="allownavbar" href={"https://vision.infamouswolves.com/"}><a href="https://vision.infamouswolves.com/" style={{fontFamily:"inherit",color:"black",}}>DOCS</a></a>
 <NavbarLinkExtendedDosabled >RAFFLES</NavbarLinkExtendedDosabled>
 <NavbarLinkExtendedDosabled >STAKING</NavbarLinkExtendedDosabled>
 
