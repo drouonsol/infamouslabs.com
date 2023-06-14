@@ -161,7 +161,7 @@ return (
      
             </a>
 
-            <a href="discord.gg/KjZ9xKyNT6" class="card" target="_blank"style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1095238368473907221/C0F68985-ED75-4350-8F76-8C16614014F4.png)"}}>
+            <a href="https://discord.gg/KjZ9xKyNT6" class="card" target="_blank"style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1095238368473907221/C0F68985-ED75-4350-8F76-8C16614014F4.png)"}}>
          
          <div class="content">
                  <h4 style={{fontSize:"175%", textTransform:"uppercase", fontFamily:"Oswald", color:"white"}}>MINT TOOLS</h4>
@@ -171,7 +171,7 @@ return (
 
      </a>
 
-     <a href="discord.gg/KjZ9xKyNT6" class="card" target="_blank" style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1028633293349998643/Untitled_Artwork.png"}}>
+     <a href="https://discord.gg/KjZ9xKyNT6" class="card" target="_blank" style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1028633293349998643/Untitled_Artwork.png"}}>
          
          <div class="content">
                  <h4 style={{fontSize:"175%", textTransform:"uppercase", fontFamily:"Oswald", color:"white"}}>BUILD YOUR OWN</h4>
@@ -194,7 +194,7 @@ return (
                  
 
 
-          <a href="discord.gg/KjZ9xKyNT6" target="_blank" class="button button-arrow bg-stuck2" style={{opacity:"100%"}}>
+          <a href="https://discord.gg/KjZ9xKyNT6" target="_blank" class="button button-arrow bg-stuck2" style={{opacity:"100%"}}>
       MORE&nbsp;
       <svg viewBox="0 0 6 9" fill="none" xmlns="http://www.w3.org/2000/svg"  class="arrow-icon">
         <g class="arrow-head">
