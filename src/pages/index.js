@@ -8,7 +8,7 @@ import { TwitterTimelineEmbed, TwitterShareButton, TwitterFollowButton, TwitterH
 import Axios from 'axios';
 import { useState } from 'react';
 import axios from 'axios'
-
+import { FaGithub } from "react-icons/fa";
 
 const Home = () => {
 
@@ -161,7 +161,7 @@ return (
      
             </a>
 
-            <a href="https://discord.gg/KjZ9xKyNT6" class="card" target="_blank"style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1095238368473907221/C0F68985-ED75-4350-8F76-8C16614014F4.png)"}}>
+            <a href="https://discord.gg/QsjECWbKt9" class="card" target="_blank"style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1095238368473907221/C0F68985-ED75-4350-8F76-8C16614014F4.png)"}}>
          
          <div class="content">
                  <h4 style={{fontSize:"175%", textTransform:"uppercase", fontFamily:"Oswald", color:"white"}}>MINT TOOLS</h4>
@@ -171,7 +171,7 @@ return (
 
      </a>
 
-     <a href="https://discord.gg/KjZ9xKyNT6" class="card" target="_blank" style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1028633293349998643/Untitled_Artwork.png"}}>
+     <a href="https://discord.gg/QsjECWbKt9" class="card" target="_blank" style={{backgroundImage: "url(https://media.discordapp.net/attachments/890670720705777785/1028633293349998643/Untitled_Artwork.png"}}>
          
          <div class="content">
                  <h4 style={{fontSize:"175%", textTransform:"uppercase", fontFamily:"Oswald", color:"white"}}>BUILD YOUR OWN</h4>
@@ -194,8 +194,8 @@ return (
                  
 
 
-          <a href="https://discord.gg/KjZ9xKyNT6" target="_blank" class="button button-arrow bg-stuck2" style={{opacity:"100%"}}>
-      MORE&nbsp;
+          <a href="mailto:contact@inflbs.com" target="_blank" class="button button-arrow bg-stuck2" style={{opacity:"100%"}}>
+      contact us&nbsp;
       <svg viewBox="0 0 6 9" fill="none" xmlns="http://www.w3.org/2000/svg"  class="arrow-icon">
         <g class="arrow-head">
           <path d="M1 1C4.5 4 5 4.38484 5 4.5C5 4.61516 4.5 5 1 8" stroke="currentColor" stroke-width="2"/>
@@ -206,19 +206,27 @@ return (
       </svg>            
     </a>
 
+        <br />
+        <br />
+        <br />
+
+          
 
 
-
+ 
 
   <section className="fuckupsection" style={{borderRadius:"50px",height:"auto"}}>
   <h1 className="prob" style={{padding:"0",margin:"3% 6%"}}>"We'll probably fail a lot but failure's not the focus - it's our ability to innovate and solve problems with bold, out-of-the-box solutions that sets us apart"</h1>
 
   <a href='https://twitter.com/oursolsavior'><h1 className="prob3" style={{padding:"0",margin:"0%",textTransform:"uppercase"}}><img className="sign"src='https://media.discordapp.net/attachments/890670720705777785/1095259705959514173/375D25B4-8C5D-4363-B917-23AF9A5838F5.png?width=658&height=658'></img></h1></a>
   </section>
+ 
+
 
       <div className='footermobileindex'>
-    
+
       </div>
+
       <Footer/>
       </div>
     
